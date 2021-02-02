@@ -9,4 +9,5 @@
 #' @examples
 miles_to_km <- function(x) {
   km <- 1.60934*x
+  print(km)
 }
